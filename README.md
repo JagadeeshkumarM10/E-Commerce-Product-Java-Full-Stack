@@ -53,7 +53,7 @@ server.port=8080
 
 spring.datasource.url=jdbc:mysql://localhost:3306/E-commercedb?createDatabaseIfNotExist=true
 spring.datasource.username=root
-spring.datasource.password=jaga
+spring.datasource.password=Your password
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
@@ -137,5 +137,5 @@ Ecommerce-Frontend/
 * Product List (from Spring Boot backend)
 * Dynamic rendering using React components
 * Fully responsive UI
-* Easy integration with further features (cart, checkout, login)......
+*  developing modules --- Registration page ,login page for users......
 
