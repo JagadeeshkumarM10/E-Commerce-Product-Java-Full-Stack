@@ -137,5 +137,5 @@ Ecommerce-Frontend/
 * Product List (from Spring Boot backend)
 * Dynamic rendering using React components
 * Fully responsive UI
-*  developing modules --- Registration page ,login page for users......
+*  developing modules --- Registration page ,login page for users etc......
 
